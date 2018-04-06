@@ -1,2 +1,2 @@
 # hw6
-https://github.com/azybkovets/hw6/blob/master/due%20to%20the.png
+https://github.com/azybkovets/hw6/blob/master/due%20to%20the.png "Необязательный титул"
