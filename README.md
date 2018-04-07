@@ -16,3 +16,6 @@
 ![alt-текст](https://github.com/azybkovets/hw6/blob/master/304.png "Необязательный титул")
 
 ![alt-текст](https://github.com/azybkovets/hw6/blob/master/305.png "Необязательный титул")
+
+![alt-текст](https://github.com/azybkovets/hw6/blob/master/comprehend.png "Необязательный титул")
+
