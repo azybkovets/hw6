@@ -1,9 +1,10 @@
 # hw6
 ## Часть 1
+# №1
 ![alt-текст](https://github.com/azybkovets/hw6/blob/master/due%20to%20the.png "Необязательный титул")
-
+## №2
 ![alt-текст](https://github.com/azybkovets/hw6/blob/master/part%20of%20speech%20tags.png "Необязательный титул")
-
+## №3
 ![alt-текст](https://github.com/azybkovets/hw6/blob/master/synonyms.png "Необязательный титул")
 
 #### Вывод:
