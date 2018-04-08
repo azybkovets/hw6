@@ -19,3 +19,8 @@
 
 ![alt-текст](https://github.com/azybkovets/hw6/blob/master/comprehend.png "Необязательный титул")
 
+# №3
+
+![alt-текст](https://github.com/azybkovets/hw6/blob/master/lecturer%20bnc.png "Необязательный титул")
+
+![alt-текст](https://github.com/azybkovets/hw6/blob/master/lecturer%20google.png "Необязательный титул")
