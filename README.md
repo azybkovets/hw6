@@ -20,6 +20,7 @@
 
 ![alt-текст](https://github.com/azybkovets/hw6/blob/master/comprehend.png "Необязательный титул")
 
+То есть, оба глагола могут употребляться со словом "extent", например, а со словами "scale" и "relationship" только "comprehend" и только "understand" соответственно.
 # №3
 
 ![alt-текст](https://github.com/azybkovets/hw6/blob/master/lecturer%20bnc.png "Необязательный титул")
